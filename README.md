@@ -1,4 +1,4 @@
-<img width="1289" height="780" alt="Screenshot 2026-02-21 114317" src="https://github.com/user-attachments/assets/8dfc4e27-8b36-42f0-8fec-6f19e1bbf530" />
+[<img width="1289" height="780" alt="Screenshot 2026-02-21 114317" src="https://github.com/user-attachments/assets/8dfc4e27-8b36-42f0-8fec-6f19e1bbf530" />
 
 
 # Hotel-Booking-Dashboard
@@ -34,8 +34,6 @@ KPI Cards (Summary Metrics)
 Slicers (Year filter for interactivity)
 
 Data Sorting & Aggregation
-
-Note: This project was built using Excel only (no Power Query or Data Modeling).
 
  Key Performance Indicators (KPIs)
 
@@ -93,3 +91,4 @@ Translating raw data into actionable insights
  Conclusion
 
 This dashboard demonstrates how Excel can be used as a powerful Business Intelligence tool to analyze booking performance and support decision-making.
+](https://github.com/Arwayasser1/Hotel-Booking-Dashboard.git)
