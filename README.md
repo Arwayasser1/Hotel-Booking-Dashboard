@@ -21,7 +21,7 @@ Compare room availability vs. room demand
 
 Understand customer segmentation (New vs Existing)
 
-🛠Tools & Techniques Used
+Tools & Techniques Used
 
 Pivot Tables
 
