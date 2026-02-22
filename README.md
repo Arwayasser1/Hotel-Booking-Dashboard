@@ -91,4 +91,3 @@ Translating raw data into actionable insights
  Conclusion
 
 This dashboard demonstrates how Excel can be used as a powerful Business Intelligence tool to analyze booking performance and support decision-making.
-](https://github.com/Arwayasser1/Hotel-Booking-Dashboard.git)
